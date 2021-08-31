@@ -4,7 +4,7 @@ alt = " My ReadMe jpg">
 ### Hi there 👋
 Hello my name is Seth Gechuki, an Economist gettting to switch his career into  tech- something i have been passionate about for a long time. I am a self taught Data Analyst, soon you will get to see projects i am working on. 
 ### Language and Tools
-Python, Powwer BI, SQL
+Python, Power BI, SQL
 
 <!--
 **Sgechuki/Sgechuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -9,14 +9,14 @@ Hello my name is Seth Gechuki, an Economist gettting to switch his career into  
 ?style=flat&logo=<LOGONAME>
 &logoColor=white&color=2bbc8a)
 Python, Powwer BI, SQL
-<a href="https://github.com/<USERNAME>/<USERNAME>">
+<a href="https://github.com/<Sgechuki>/<Sgechuki>">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-  <a href="https://github.com/<USERNAME>/<REPONAME>">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
+  <a href="https://github.com/<Sgechuki>/<Sgechuki>">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=<Sgechuki>&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="<CUSTOMIZE>" />
 </a>
- <a href=”https://github.com/<USERNAME>/<REPONAME>">
- <img align=”center” src=”https://github-readme-stats.vercel.app/api/pin/?username=<USERNAME>&repo=<REPONAME>&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <a href=”https://github.com/<Sgechuki>/<Sgechuki>">
+ <img align=”center” src=”https://github-readme-stats.vercel.app/api/pin/?username=<Sgechuki>&repo=<Sgechuki>&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <!--
 **Sgechuki/Sgechuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

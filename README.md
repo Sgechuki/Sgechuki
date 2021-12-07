@@ -2,7 +2,7 @@
 <h2 align="center">Hi👋, I'm Seth</h2>
 <h4 align="center">I'm a Data Analyst living in Kenya</h4>
 <ul>
-  <li>🔭 I’m currently an Economics graduate.</li>
+  <li>🔭 I’m an Economics graduate.</li>
   <li>🌱 I’m currently learning Linux.</li>
   <!--<li>👯 I’m looking to collaborate on ...</li>-->
   <li>🤔 I’m looking for help with OOP</li>

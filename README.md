@@ -3,7 +3,7 @@
 <h4 align="center">I'm a Data Analyst living in Kenya</h4>
 <ul>
   <li>🔭 I’m an Economics graduate.</li>
-  <li>🌱 I’m currently learning Linux.</li>
+  <li>🌱 I’m currently learning Bash, C under the ALX Software Engineering program.</li>
   <!--<li>👯 I’m looking to collaborate on ...</li>-->
   <li>🤔 I’m looking for help with OOP</li>
   <li>💬 Ask me about Data Analysis and Storytelling with Data</li>
